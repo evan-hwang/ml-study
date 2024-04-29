@@ -2,6 +2,7 @@
 
 ## roadmap
 - [machine learning roadmap 2024 - aleksey-kochetkov](https://www.linkedin.com/pulse/machine-learning-roadmap-2024-aleksey-kochetkov-wn3ie/)
+- [full stack deep learning (fsdl)](https://fall2019.fullstackdeeplearning.com/)
 
 ## opensource
 ### Kubeflow
